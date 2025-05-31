@@ -4,9 +4,6 @@
 
 Aditya Rastogi is a passionate software engineer specializing in Fullstack development, with expertise in Python and both Frontend and Backend technologies
 
-### summary
-*Aditya Rastogi is a passionate software engineer specializing in Fullstack development, with expertise in Python and both Frontend and Backend technologies.*
-
 </div>
 
 <p align="center">
